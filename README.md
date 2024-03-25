@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 # Nick Trogh's GitHub profile
 
-I'm a technical writer in the Skilling team at Microsoft. I help developers get successful by creating technical content on [Microsoft Learn](https://learn.microsoft.com). 
+I'm a technical writer at Microsoft.
 
-- 🔭 I’m currently working on [Azure Load Testing](https://learn.microsoft.com/azure/load-testing), [Microsoft Playwright Testing](https://learn.microsoft.com/azure/playwright-testing), and [Microsoft Dev Box](https://learn.microsoft.com/azure/dev-box).
+- 🔭 I’m currently working on [Visual Studio Code](https://code.visualstudio.com/).
 - 🌱 I’m currently learning Japanese 🏯 こんにちは はじめまして
+- 💬 Ask me about VS Code, technical writing, content design, Microsoft Azure
 
 <img align="left" alt="ntrogh' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntrogh&show_icons=true&theme=radical" />
