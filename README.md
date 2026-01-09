@@ -21,6 +21,4 @@ I'm a technical writer at Microsoft.
 
 - 🔭 I’m working on documentation for [Visual Studio Code](https://code.visualstudio.com/).
 - 🌱 I’m currently learning Japanese 🏯 こんにちは
-- 💬 Ask me about VS Code, technical writing, content design, Microsoft Azure
-
-<img align="left" alt="ntrogh' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntrogh&show_icons=true&theme=radical" />
+- 💬 Ask me about VS Code, technical writing, content design
